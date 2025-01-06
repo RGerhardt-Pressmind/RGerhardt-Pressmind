@@ -21,8 +21,11 @@ Hello World!, I'm Robbyn, a Fullstack Developer and Head of Development by Press
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RGerhardt-Pressmind&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RGerhardt-Pressmind&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://raw.githubusercontent.com/RGerhardt-Pressmind/RGerhardt-Pressmind/output/snake.svg" alt="Snake animation" />
-
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RGerhardt-Pressmind/RGerhardt-Pressmind/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RGerhardt-Pressmind/RGerhardt-Pressmind/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/RGerhardt-Pressmind/RGerhardt-Pressmind/output/snake.svg" alt="Snake animation" />
+</picture>
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=RGerhardt-Pressmind&theme=radical&no-frame=false&no-bg=true&margin-w=4)
