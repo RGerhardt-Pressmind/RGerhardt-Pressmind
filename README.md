@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center; gap: 50px;">
     <a href="https://pressmind.de" target="_blank" style="margin: 0 25px;"><img src="https://pressmind2frontend.s3.eu-central-1.amazonaws.com/assets/logo.svg" width="200"></a>
     <a href="https://pressmind.de" target="_blank" style="margin: 0 25px;"><img src="https://pressmind2frontend.s3.eu-central-1.amazonaws.com/assets/logoTravelshop.svg" width="200"></a>
     <a href="https://dias.pressmind.app" target="_blank" style="margin: 0 25px;"><img src="https://pressmind2frontend.s3.eu-central-1.amazonaws.com/assets/logoDIAS.svg" width="200"></a>
